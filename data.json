@@ -1,0 +1,79 @@
+{
+    "platforms": {
+        "ifeng": {"name": "凤凰网", "logo": "./assets/img/platforms/ifeng.png"},
+        "bilibili": {"name": "哔哩哔哩", "logo": "./assets/img/platforms/bilibili.svg"}
+    },
+    "panels": [
+        {
+            "nameChinese": "开幕式",
+            "nameEnglish": "",
+            "startTime": "2022-03-10T20:00:00+08:00",
+            "endTime": "2022-03-18T20:30:00+08:00",
+            "links": [
+                {"platform": "ifeng", "link": "https://v.ifeng.com/c/8ER1L9SStk7"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6", "qr": "data:image/png;base64,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"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"},
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "跨学科",
+            "nameEnglish": "Interdiciplinary Studies",
+            "startTime": "2022-03-18T20:45:00+08:00",
+            "endTime": "2022-03-18T22:15:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "乡村",
+            "nameEnglish": "Sci-Fi & Technology",
+            "startTime": "2022-03-19T18:30:00+08:00",
+            "endTime": "2022-03-19T20:00:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "虚拟偶像",
+            "nameEnglish": "Sci-Fi & Technology",
+            "startTime": "2022-03-20T14:00:00+08:00",
+            "endTime": "2022-03-20T15:30:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "项飙与桑德尔对谈",
+            "nameEnglish": "Sci-Fi & Technology",
+            "startTime": "2022-03-20T14:00:00+08:00",
+            "endTime": "2022-03-20T15:30:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "跨界艺术",
+            "nameEnglish": "Sci-Fi & Technology",
+            "startTime": "2022-03-20T14:00:00+08:00",
+            "endTime": "2022-03-20T15:30:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        }
+    ]
+}

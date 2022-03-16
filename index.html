@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-cn" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="./assets/css/main.css" rel="stylesheet">
+
+    <title>牛津中国论坛直播入口</title>
+  </head>
+
+  <body class="h-100">
+    <div class="opaque-background">
+      <img src="../assets/img/panel-placeholder.png" alt="">
+    </div>
+
+    <nav class="navbar navbar-light" style="background: #00000008">
+      <div class="container">
+        <span class="navbar-brand">
+          <img src="./assets/img/logo.png" alt="Oxford China Forum 牛津中国论坛" height="50" class="d-inline-block me-4">
+          <span class="h5">直播入口 Stream Portal</span>
+        </span>
+      </div>
+    </nav>
+
+    <main class="container my-5">
+      <div id="panels" class="row"></div>
+    </main>
+
+    <footer class="container">
+      芜湖
+    </footer>
+
+    <template id="panel">
+      <div class="p-5 hover-shadow">
+        <h5 class="panel-time"></h5>
+        <div class="mt-3 mb-5">
+          <h4 class="panel-name-cn display-4 mb-0"></h4>
+          <h6 class="panel-name-en display-6 fs-2" style="font-variant: small-caps;"></h6>
+        </div>
+
+        <!-- <p class="text-center">点击进入直播间</p> -->
+        <div class="panel-links row g-0 g-lg-4"></div>
+      </div>
+    </template>
+
+    <template id="link">
+      <div class="col-6 col-md-4 col-lg-3 col-xl-2 text-center">
+        <a class="link-link d-flex flex-column w-100 h-100 p-3 text-decoration-none text-reset hover-shadow" target="_blank">
+          <!-- <span class="link-name"></span> -->
+          <img class="link-logo">
+          <div class="link-qr p-3 flex-grow-1"></div>
+          <p>点击进入</p>
+        </a>
+      </div>
+    </template>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/papnkukn/qrcode-svg/dist/qrcode.min.js" crossorigin="anonymous"></script>
+    <script src="./assets/js/main.js"></script>
+  </body>
+</html>
