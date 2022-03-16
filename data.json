@@ -6,7 +6,7 @@
     "panels": [
         {
             "nameChinese": "开幕式",
-            "nameEnglish": "",
+            "nameEnglish": "Opening",
             "startTime": "2022-03-10T20:00:00+08:00",
             "endTime": "2022-03-18T20:30:00+08:00",
             "links": [
@@ -40,8 +40,8 @@
             ]
         },
         {
-            "nameChinese": "乡村",
-            "nameEnglish": "Sci-Fi & Technology",
+            "nameChinese": "乡村与城市",
+            "nameEnglish": "The Country and the City",
             "startTime": "2022-03-19T18:30:00+08:00",
             "endTime": "2022-03-19T20:00:00+08:00",
             "links": [
@@ -50,15 +50,24 @@
         },
         {
             "nameChinese": "虚拟偶像",
-            "nameEnglish": "Sci-Fi & Technology",
-            "startTime": "2022-03-20T14:00:00+08:00",
-            "endTime": "2022-03-20T15:30:00+08:00",
+            "nameEnglish": "Virtual Idols",
+            "startTime": "2022-03-19T20:10:00+08:00",
+            "endTime": "2022-03-19T21:40:00+08:00",
             "links": [
                 {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
             ]
         },
         {
             "nameChinese": "项飙与桑德尔对谈",
+            "nameEnglish": "",
+            "startTime": "2022-03-19T21:50:00+08:00",
+            "endTime": "2022-03-19T23:00:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "科幻与科技",
             "nameEnglish": "Sci-Fi & Technology",
             "startTime": "2022-03-20T14:00:00+08:00",
             "endTime": "2022-03-20T15:30:00+08:00",
@@ -68,9 +77,54 @@
         },
         {
             "nameChinese": "跨界艺术",
-            "nameEnglish": "Sci-Fi & Technology",
-            "startTime": "2022-03-20T14:00:00+08:00",
-            "endTime": "2022-03-20T15:30:00+08:00",
+            "nameEnglish": "Art in New Media Age",
+            "startTime": "2022-03-20T16:00:00+08:00",
+            "endTime": "2022-03-20T17:30:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "青年与老龄化",
+            "nameEnglish": "",
+            "startTime": "2022-03-20T19:00:00+08:00",
+            "endTime": "2022-03-20T20:30:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "专访沈黎晖",
+            "nameEnglish": "",
+            "startTime": "2022-03-20T20:40:00+08:00",
+            "endTime": "2022-03-20T21:10:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "能源与国际关系",
+            "nameEnglish": "Energy and International Relations",
+            "startTime": "2022-03-21T18:00:00+08:00",
+            "endTime": "2022-03-21T19:30:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "海外华人华侨",
+            "nameEnglish": "Overseas Chinese",
+            "startTime": "2022-03-21T19:40:00+08:00",
+            "endTime": "2022-03-21T21:10:00+08:00",
+            "links": [
+                {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
+            ]
+        },
+        {
+            "nameChinese": "闭幕式",
+            "nameEnglish": "Closing",
+            "startTime": "2022-03-21T21:20:00+08:00",
+            "endTime": "2022-03-21T21:50:00+08:00",
             "links": [
                 {"platform": "bilibili", "link": "https://live.bilibili.com/6"}
             ]

@@ -15,21 +15,33 @@
       <img src="../assets/img/panel-placeholder.png" alt="">
     </div>
 
-    <nav class="navbar navbar-light" style="background: #00000008">
+    <nav class="navbar navbar-light">
       <div class="container">
         <span class="navbar-brand">
           <img src="./assets/img/logo.png" alt="Oxford China Forum 牛津中国论坛" height="50" class="d-inline-block me-4">
-          <span class="h5">直播入口 Stream Portal</span>
+          <div class="d-inline-block" style="vertical-align: middle;">
+            <h5 class="fs-4 mb-0">牛津中国论坛</h5>
+            <h5 class="fs-6 mb-0">Oxford China Forum 2022</h5>
+          </div>
         </span>
       </div>
     </nav>
 
-    <main class="container my-5">
-      <div id="panels" class="row"></div>
+    <main class="container mt-5">
+      <h2 class="mb-3">直播入口 Stream Portal</h2>
+      <div id="panels"></div>
+
+      <div class="row py-5">
+        <h5>联系方式</h5>
+        <p>如观看过程中遇到任何问题，请进观众群，实时解答。也欢迎进群与和其他观众一起开启弹幕 Reaction 模式！</p>
+        <div class="col-6 col-md-4 col-lg-3 col-xl-2 text-center">
+          <img class="img-fluid" src="./assets/img/ocf-wechat-group-qr.jpg">
+        </div>
+      </div>
     </main>
 
     <footer class="container">
-      芜湖
+      <p class="text-muted pb-3">牛津中国论坛 Oxford China Forum 2022</p>
     </footer>
 
     <template id="panel">
@@ -41,17 +53,17 @@
         </div>
 
         <!-- <p class="text-center">点击进入直播间</p> -->
-        <div class="panel-links row g-0 g-lg-4"></div>
+        <div class="panel-links row g-0 g-sm-3 g-lg-4"></div>
       </div>
     </template>
 
     <template id="link">
       <div class="col-6 col-md-4 col-lg-3 col-xl-2 text-center">
-        <a class="link-link d-flex flex-column w-100 h-100 p-3 text-decoration-none text-reset hover-shadow" target="_blank">
+        <a class="link-link d-flex flex-column w-100 h-100 py-3 px-2 px-md-3 text-decoration-none text-reset hover-shadow" target="_blank">
           <!-- <span class="link-name"></span> -->
           <img class="link-logo">
-          <div class="link-qr p-3 flex-grow-1"></div>
-          <p>点击进入</p>
+          <div class="link-qr p-2 p-sm-3 flex-grow-1"></div>
+          <p class="mb-0">点击进入</p>
         </a>
       </div>
     </template>
