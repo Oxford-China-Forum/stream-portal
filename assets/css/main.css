@@ -2,6 +2,10 @@
     background: #00000008;
 }
 
+.primary-color {
+    color: #bf252d;
+}
+
 .panel-time {
     position: relative;
 }
