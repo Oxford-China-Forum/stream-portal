@@ -60,15 +60,20 @@ function makePanel(data, index) {
 function makeLink(linkData) {
     const linkElement = linkTemplate.content.cloneNode(true);
 
-    // const linkName = linkElement.querySelector('.link-name');
+    const linkName = linkElement.querySelector('.link-name');
     const linkLogo = linkElement.querySelector('.link-logo');
     const linkQR = linkElement.querySelector('.link-qr');
     const linkLink = linkElement.querySelector('.link-link');
     const platform = platforms[linkData.platform];
 
-    // linkName.innerText = platform.name;
-    linkLogo.title = platform.name;
-    linkLogo.src = platform.logo;
+    if (platform.logo) {
+        linkLogo.title = platform.name;
+        linkLogo.src = platform.logo;
+        linkName.classList.add('d-none');
+    } else {
+        linkName.innerText = platform.name;
+        linkLogo.classList.add('d-none');
+    }
     linkLink.href = linkData.link;
 
     if (linkData.qr) {
