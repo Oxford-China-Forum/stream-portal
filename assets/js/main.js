@@ -1,5 +1,5 @@
 const DATA_LOCATION = 'data.json';
-const NUM_PANELS_DISPLAYED = 1;
+const NUM_PANELS_DISPLAYED = 2;
 
 let platforms = {};
 
