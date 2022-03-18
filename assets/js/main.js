@@ -8,13 +8,13 @@ const panelTemplate = document.querySelector('#panel');
 const linkTemplate = document.querySelector('#link');
 
 
-function formatTime(timestamp) {
-    const date = new Date(timestamp);
-    const options = {
-        month: 'numeric', day: 'numeric',
-        hour: '2-digit', minute: '2-digit'}
-    return date.toLocaleDateString('zh-CN', );
-}
+// function formatTime(timestamp) {
+//     const date = new Date(timestamp);
+//     const options = {
+//         month: 'numeric', day: 'numeric',
+//         hour: '2-digit', minute: '2-digit'}
+//     return date.toLocaleDateString('zh-CN', );
+// }
 
 
 function makePanel(data, index) {
