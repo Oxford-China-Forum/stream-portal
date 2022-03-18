@@ -15,7 +15,8 @@
         "fanpu-weibo": {"name": "返朴微博", "logo": "assets/img/platforms/fanpu.png", "showName": true},
         "youtube": {"name": "YouTube", "logo": "assets/img/platforms/youtube.png"},
         "zhihu": {"name": "知乎", "logo": "assets/img/platforms/zhihu.png"},
-        "sohu": {"name": "搜狐", "logo": "assets/img/platforms/sohu.png"}
+        "sohu": {"name": "搜狐", "logo": "assets/img/platforms/sohu.png"},
+        "miaopai": {"name": "秒拍一直播"}
     },
     "panels": [
         {
@@ -40,14 +41,10 @@
             "startTime": "2022-03-18T20:45:00+08:00",
             "endTime": "2022-03-18T22:15:00+08:00",
             "links": [
-                {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "fanpu-sph", "qr": "assets/img/platforms/qr/fanpu-sph.png"},
                 {"platform": "fanpu-weibo", "link": "https://m.weibo.cn/7006367380/4748014365705172", "qr": "assets/img/platforms/qr/fanpu-weibo.png"},
-                {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
-                {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
-                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"},
                 {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
@@ -62,10 +59,10 @@
                 {"platform": "oneway-weibo"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
-                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
-                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"}
+                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"},
+                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
         {
@@ -74,6 +71,15 @@
             "startTime": "2022-03-19T20:10:00+08:00",
             "endTime": "2022-03-19T21:40:00+08:00",
             "links": [
+                {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
+                {"platform": "oneway-sph"},
+                {"platform": "oneway-weibo"},
+                {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
+                {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
+                {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
+                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"},
+                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
         {
@@ -82,6 +88,13 @@
             "startTime": "2022-03-19T21:50:00+08:00",
             "endTime": "2022-03-19T23:00:00+08:00",
             "links": [
+                {"platform": "oneway-sph"},
+                {"platform": "oneway-weibo"},
+                {"platform": "miaopai"},
+                {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
+                {"platform": "sohu"},
+                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
         {
@@ -90,6 +103,16 @@
             "startTime": "2022-03-20T14:00:00+08:00",
             "endTime": "2022-03-20T15:30:00+08:00",
             "links": [
+                {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
+                {"platform": "oneway-sph"},
+                {"platform": "oneway-weibo"},
+                {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
+                {"platform": "future"},
+                {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
+                {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
+                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"},
+                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
         {
