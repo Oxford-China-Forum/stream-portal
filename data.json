@@ -93,7 +93,7 @@
                 {"platform": "miaopai"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
-                {"platform": "sohu"},
+                {"platform": "sohu", "link": "https://3g.k.sohu.com/t/l85952"},
                 {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
