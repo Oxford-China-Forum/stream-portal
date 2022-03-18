@@ -56,7 +56,7 @@
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
                 {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
-                {"platform": "oneway-weibo", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
+                {"platform": "oneway-weibo", "link": "https://weibo.com/l/wblive/p/show/1022:2321324747009398538323", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
@@ -73,7 +73,7 @@
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
                 {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
-                {"platform": "oneway-weibo", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
+                {"platform": "oneway-weibo", "link": "https://weibo.com/l/wblive/p/show/1022:2321324747009398538323", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
@@ -89,7 +89,7 @@
             "endTime": "2022-03-19T23:00:00+08:00",
             "links": [
                 {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
-                {"platform": "oneway-weibo", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
+                {"platform": "oneway-weibo", "link": "https://weibo.com/l/wblive/p/show/1022:2321324747009398538323", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
                 {"platform": "miaopai"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
@@ -105,7 +105,7 @@
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
                 {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
-                {"platform": "oneway-weibo", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
+                {"platform": "oneway-weibo", "link": "https://weibo.com/l/wblive/p/show/1022:2321324747009398538323", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "future"},
