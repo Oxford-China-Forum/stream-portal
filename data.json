@@ -3,8 +3,8 @@
         "ifeng": {"name": "凤凰网", "logo": "assets/img/platforms/ifeng.png"},
         "bilibili": {"name": "哔哩哔哩", "logo": "assets/img/platforms/bilibili.svg"},
         "future": {"name": "未来事务管理局"},
-        "oneway-sph": {"name": "单向空间视频号"},
-        "oneway-weibo": {"name": "单向空间微博"},
+        "oneway-sph": {"name": "(视频号)", "logo": "assets/img/platforms/oneway.png", "showName": true},
+        "oneway-weibo": {"name": "(微博)", "logo": "assets/img/platforms/oneway.png", "showName": true},
         "yunlive": {"name": "云现场", "logo": "assets/img/platforms/yunlive.png"},
         "baidu-caijing": {"name": "百度财经", "logo": "assets/img/platforms/baidu-caijing.png"},
         "wind": {"name": "万得3C会议", "logo": "assets/img/platforms/wind.png"},
@@ -66,8 +66,8 @@
             ]
         },
         {
-            "nameChinese": "虚拟偶像",
-            "nameEnglish": "Virtual Idols",
+            "nameChinese": "虚拟偶像研讨会",
+            "nameEnglish": "Virtual Idols Seminar",
             "startTime": "2022-03-19T20:10:00+08:00",
             "endTime": "2022-03-19T21:40:00+08:00",
             "links": [
@@ -84,7 +84,7 @@
         },
         {
             "nameChinese": "项飙与桑德尔对谈",
-            "nameEnglish": "",
+            "nameEnglish": "M",
             "startTime": "2022-03-19T21:50:00+08:00",
             "endTime": "2022-03-19T23:00:00+08:00",
             "links": [
