@@ -87,6 +87,9 @@ function makeLink(linkData) {
 
     if (linkData.link) {
         linkLink.href = linkData.link;
+        linkHint.classList.add('btn-link');
+    } else if (linkData.qr) {
+        linkHint.innerText = "扫码进入";
     } else {
         linkHint.classList.add('d-none');
     }

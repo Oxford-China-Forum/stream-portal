@@ -2,7 +2,7 @@
     "platforms": {
         "ifeng": {"name": "凤凰网", "logo": "assets/img/platforms/ifeng.png"},
         "bilibili": {"name": "哔哩哔哩", "logo": "assets/img/platforms/bilibili.svg"},
-        "future": {"name": "未来事务管理局"},
+        "future": {"name": "未来事务管理局", "logo": "assets/img/platforms/future.png"},
         "oneway-sph": {"name": "(视频号)", "logo": "assets/img/platforms/oneway.png", "showName": true},
         "oneway-weibo": {"name": "(微博)", "logo": "assets/img/platforms/oneway.png", "showName": true},
         "yunlive": {"name": "云现场", "logo": "assets/img/platforms/yunlive.png"},
@@ -16,7 +16,7 @@
         "youtube": {"name": "YouTube", "logo": "assets/img/platforms/youtube.png"},
         "zhihu": {"name": "知乎", "logo": "assets/img/platforms/zhihu.png"},
         "sohu": {"name": "搜狐", "logo": "assets/img/platforms/sohu.png"},
-        "miaopai": {"name": "秒拍一直播"}
+        "miaopai": {"name": "秒拍一直播", "logo": "assets/img/platforms/miaopai.png"}
     },
     "panels": [
         {
@@ -55,8 +55,8 @@
             "endTime": "2022-03-19T20:00:00+08:00",
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
-                {"platform": "oneway-sph"},
-                {"platform": "oneway-weibo"},
+                {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
+                {"platform": "oneway-weibo", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
@@ -72,8 +72,8 @@
             "endTime": "2022-03-19T21:40:00+08:00",
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
-                {"platform": "oneway-sph"},
-                {"platform": "oneway-weibo"},
+                {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
+                {"platform": "oneway-weibo", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
@@ -84,12 +84,12 @@
         },
         {
             "nameChinese": "项飙与桑德尔对谈",
-            "nameEnglish": "M",
+            "nameEnglish": "The Tyranny of Merit: Michael Sandel & Biao Xiang in dialogue",
             "startTime": "2022-03-19T21:50:00+08:00",
             "endTime": "2022-03-19T23:00:00+08:00",
             "links": [
-                {"platform": "oneway-sph"},
-                {"platform": "oneway-weibo"},
+                {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
+                {"platform": "oneway-weibo", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
                 {"platform": "miaopai"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
@@ -104,8 +104,8 @@
             "endTime": "2022-03-20T15:30:00+08:00",
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
-                {"platform": "oneway-sph"},
-                {"platform": "oneway-weibo"},
+                {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
+                {"platform": "oneway-weibo", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "future"},
@@ -125,7 +125,7 @@
         },
         {
             "nameChinese": "青年与老龄化",
-            "nameEnglish": "",
+            "nameEnglish": "Ageing Society",
             "startTime": "2022-03-20T19:00:00+08:00",
             "endTime": "2022-03-20T20:30:00+08:00",
             "links": [
@@ -133,7 +133,7 @@
         },
         {
             "nameChinese": "专访沈黎晖",
-            "nameEnglish": "",
+            "nameEnglish": "Interview: Shen Lihui",
             "startTime": "2022-03-20T20:40:00+08:00",
             "endTime": "2022-03-20T21:10:00+08:00",
             "links": [
