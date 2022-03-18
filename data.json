@@ -13,7 +13,7 @@
         "tencent": {"name": "腾讯视频", "logo": "assets/img/platforms/tencent.png"},
         "fanpu-sph": {"name": "返朴视频号", "logo": "assets/img/platforms/fanpu.png", "showName": true},
         "fanpu-weibo": {"name": "返朴微博", "logo": "assets/img/platforms/fanpu.png", "showName": true},
-        "youtube": {"name": "YouTube"},
+        "youtube": {"name": "YouTube", "logo": "assets/img/platforms/youtube.png"},
         "zhihu": {"name": "知乎", "logo": "assets/img/platforms/zhihu.png"},
         "sohu": {"name": "搜狐", "logo": "assets/img/platforms/sohu.png"}
     },
@@ -27,11 +27,11 @@
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
-                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
                 {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"},
-                {"platform": "sohu", "link": "https://3g.k.sohu.com/t/l85952"}
+                {"platform": "sohu", "link": "https://3g.k.sohu.com/t/l85952"},
+                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
         {
@@ -45,10 +45,10 @@
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "fanpu-sph", "qr": "assets/img/platforms/qr/fanpu-sph.png"},
                 {"platform": "fanpu-weibo", "link": "https://m.weibo.cn/7006367380/4748014365705172", "qr": "assets/img/platforms/qr/fanpu-weibo.png"},
-                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
-                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"}
+                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"},
+                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
         {
