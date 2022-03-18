@@ -1,9 +1,15 @@
+.primary-color {
+    color: #bf252d;
+}
+
 .navbar {
     background: #00000008;
 }
 
-.primary-color {
-    color: #bf252d;
+#schedule {
+    max-height: 25rem;
+    width: 100%;
+    object-fit: contain;
 }
 
 .panel-time {
