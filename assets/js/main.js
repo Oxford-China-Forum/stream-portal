@@ -64,23 +64,38 @@ function makeLink(linkData) {
     const linkLogo = linkElement.querySelector('.link-logo');
     const linkQR = linkElement.querySelector('.link-qr');
     const linkLink = linkElement.querySelector('.link-link');
+    const linkHint = linkElement.querySelector('.link-hint')
     const platform = platforms[linkData.platform];
 
     if (platform.logo) {
         linkLogo.title = platform.name;
         linkLogo.src = platform.logo;
+    }
+    if (platform.name) {
+        linkName.innerText = platform.name;
+    }
+
+    if (platform.showName) {
+        // show both name & logo
+    } else if (platform.logo) {
+        // show logo, hide name
         linkName.classList.add('d-none');
     } else {
-        linkName.innerText = platform.name;
+        // show name, hide logo
         linkLogo.classList.add('d-none');
     }
-    linkLink.href = linkData.link;
+
+    if (linkData.link) {
+        linkLink.href = linkData.link;
+    } else {
+        linkHint.classList.add('d-none');
+    }
 
     if (linkData.qr) {
         linkQRImage = new Image();
         linkQRImage.src = linkData.qr;
         linkQR.appendChild(linkQRImage);
-    } else {
+    } else if (linkData.link) {
         linkQR.innerHTML = new QRCode({
             content: linkData.link,
             padding: 0,

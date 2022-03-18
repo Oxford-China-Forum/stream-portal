@@ -67,12 +67,17 @@
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
 }
 
-.link-logo, .link-qr svg, .link-qr img {
+.link-logo {
+    object-fit: contain;
+    height: 100%;
+}
+
+.link-qr svg, .link-qr img {
     display: block;
     width: 100%;
     object-fit: contain;
 }
 
-.link-logo {
+.link-logo-name {
     height: 2em;
 }

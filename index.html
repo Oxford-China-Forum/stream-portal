@@ -62,10 +62,12 @@
     <template id="link">
       <div class="col-6 col-md-4 col-lg-3 col-xl-2 text-center">
         <a class="link-link d-flex flex-column w-100 h-100 py-3 px-2 px-md-3 text-decoration-none text-reset hover-shadow" target="_blank">
-          <span class="link-name"></span>
-          <img class="link-logo">
+          <div class="link-logo-name d-flex justify-content-center align-items-center">
+            <img class="link-logo mx-1">
+            <span class="link-name mx-1"></span>
+          </div>
           <div class="link-qr p-2 p-sm-3 flex-grow-1"></div>
-          <p class="mb-0">点击进入</p>
+          <p class="link-hint btn btn-link mb-0">点击进入</p>
         </a>
       </div>
     </template>
