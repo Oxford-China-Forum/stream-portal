@@ -91,7 +91,7 @@
             "links": [
                 {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
                 {"platform": "oneway-weibo", "link": "https://weibo.com/l/wblive/p/show/1022:2321324747009398538323", "qr": "assets/img/platforms/qr/oneway-weibo.png"},
-                {"platform": "miaopai"},
+                {"platform": "miaopai", "link": "https://www.yizhibo.com/l/s2L-p20lz_52jRKr.html"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/app/index.html#/liveRoom?liveId=34834"},
                 {"platform": "fanpu-sph", "qr": "assets/img/platforms/qr/fanpu-sph.png"},
