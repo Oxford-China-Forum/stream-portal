@@ -16,7 +16,8 @@
         "youtube": {"name": "YouTube", "logo": "assets/img/platforms/youtube.png"},
         "zhihu": {"name": "知乎", "logo": "assets/img/platforms/zhihu.png"},
         "sohu": {"name": "搜狐", "logo": "assets/img/platforms/sohu.png"},
-        "miaopai": {"name": "秒拍一直播", "logo": "assets/img/platforms/miaopai.png"}
+        "miaopai": {"name": "秒拍一直播", "logo": "assets/img/platforms/miaopai.png"},
+        "tai": {"name": "钛媒体", "logo": "assets/img/platforms/tai.png"}
     },
     "panels": [
         {
@@ -61,7 +62,7 @@
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
-                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"},
+                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137656/preview.html"},
                 {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
@@ -78,12 +79,12 @@
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
-                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"},
+                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137656/preview.html"},
                 {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
         {
-            "nameChinese": "项飙与桑德尔对谈",
+            "nameChinese": "精英的傲慢：项飙与桑德尔对谈",
             "nameEnglish": "The Tyranny of Merit: Michael Sandel & Biao Xiang in dialogue",
             "startTime": "2022-03-19T21:50:00+08:00",
             "endTime": "2022-03-19T23:00:00+08:00",
@@ -93,8 +94,11 @@
                 {"platform": "miaopai"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAg", "qr": "assets/img/platforms/qr/wind.png"},
+                {"platform": "fanpu-sph", "qr": "assets/img/platforms/qr/fanpu-sph.png"},
+                {"platform": "fanpu-weibo", "link": "http://t.cn/A66JOQ38", "qr": "assets/img/platforms/qr/fanpu-weibo.png"},
                 {"platform": "sohu", "link": "https://3g.k.sohu.com/t/l85952"},
-                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
+                {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"},
+                {"platform": "tai", "link": "https://www.tmtpost.com/watch/UGTalp", "qr": "assets/img/platforms/qr/tai.png"}
             ]
         },
         {
@@ -111,7 +115,7 @@
                 {"platform": "future"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
-                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137561/preview.html"},
+                {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137656/preview.html"},
                 {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
