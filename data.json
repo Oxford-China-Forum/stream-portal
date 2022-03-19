@@ -96,7 +96,6 @@
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/app/index.html#/liveRoom?liveId=34834"},
                 {"platform": "fanpu-sph", "qr": "assets/img/platforms/qr/fanpu-sph.png"},
                 {"platform": "fanpu-weibo", "link": "http://t.cn/A66JOQ38", "qr": "assets/img/platforms/qr/fanpu-weibo.png"},
-                {"platform": "sohu", "link": "https://3g.k.sohu.com/t/l85952"},
                 {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"},
                 {"platform": "tai", "link": "https://www.tmtpost.com/watch/UGTalp", "qr": "assets/img/platforms/qr/tai.png"}
             ]
