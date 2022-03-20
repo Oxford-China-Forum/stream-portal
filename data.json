@@ -156,6 +156,8 @@
             "startTime": "2022-03-20T20:40:00+08:00",
             "endTime": "2022-03-20T21:10:00+08:00",
             "links": [
+                {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
+                {"platform": "oneway-weibo", "link": "https://weibo.com/l/wblive/p/show/1022:2321324748911033319707"},
                 {"platform": "miaopai", "link": "https://www.yizhibo.com/l/s2L-p20lz_52jRKr.html"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAj&shareUserSign=uier"},
