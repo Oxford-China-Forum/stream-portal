@@ -110,7 +110,7 @@
                 {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
                 {"platform": "oneway-weibo", "link": "https://weibo.com/l/wblive/p/show/1022:2321324748911033319707"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
-                {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/app/index.html#/liveRoom?liveId=34834"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAj&shareUserSign=uier"},
                 {"platform": "future", "link": "https://weibo.com/3901595996/LkjgCjHSB"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
@@ -128,7 +128,7 @@
                 {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
                 {"platform": "oneway-weibo", "link": "https://weibo.com/l/wblive/p/show/1022:2321324748911033319707"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
-                {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/app/index.html#/liveRoom?liveId=34834"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAj&shareUserSign=uier"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
                 {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137657/preview.html"},
@@ -143,7 +143,7 @@
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
-                {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/app/index.html#/liveRoom?liveId=34834"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAj&shareUserSign=uier"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
                 {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137657/preview.html"},
@@ -159,7 +159,7 @@
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
                 {"platform": "miaopai", "link": "https://www.yizhibo.com/l/s2L-p20lz_52jRKr.html"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
-                {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/app/index.html#/liveRoom?liveId=34834"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAj&shareUserSign=uier"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
                 {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137657/preview.html"},
@@ -173,7 +173,7 @@
             "endTime": "2022-03-21T19:30:00+08:00",
             "links": [
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
-                {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/app/index.html#/liveRoom?liveId=34834"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAj&shareUserSign=uier"},
                 {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
@@ -184,7 +184,7 @@
             "endTime": "2022-03-21T21:10:00+08:00",
             "links": [
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
-                {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/app/index.html#/liveRoom?liveId=34834"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAj&shareUserSign=uier"},
                 {"platform": "youtube", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"}
             ]
         },
@@ -196,7 +196,7 @@
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
-                {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/app/index.html#/liveRoom?liveId=34834"},
+                {"platform": "wind", "link": "https://peacall.wind.com.cn/l/BCAj&shareUserSign=uier"},
                 {"platform": "zhihu", "link": "https://www.zhihu.com/theater/89731"},
                 {"platform": "iqiyi", "link": "https://live.iqiyi.com/s/ggavnbwi23O13zbkt86el.html"},
                 {"platform": "tencent", "link": "https://v.qq.com/live/p/newtopic/137657/preview.html"},
