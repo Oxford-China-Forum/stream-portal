@@ -106,6 +106,7 @@
             "startTime": "2022-03-20T14:00:00+08:00",
             "endTime": "2022-03-20T15:30:00+08:00",
             "links": [
+                {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1006444.html"},
                 {"platform": "oneway-sph", "qr": "assets/img/platforms/qr/oneway-sph.png"},
                 {"platform": "oneway-weibo", "link": "https://weibo.com/l/wblive/p/show/1022:2321324748911033319707"},
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
