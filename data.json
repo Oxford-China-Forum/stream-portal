@@ -196,7 +196,7 @@
             "nameChinese": "闭幕式",
             "nameEnglish": "Closing",
             "startTime": "2022-03-21T21:20:00+08:00",
-            "endTime": "2022-03-21T21:50:00+08:00",
+            "endTime": "2022-03-21T22:00:00+08:00",
             "links": [
                 {"platform": "yunlive", "link": "https://www.yun-live.com/pc/serviceCase/538", "qr": "assets/img/platforms/qr/yunlive.png"},
                 {"platform": "wind", "link": "https://peacall.wind.com.cn/RTCWeb/pc/index.html#/liveRoom?liveId=34836"},
