@@ -26,6 +26,14 @@ function makePanel(data, index) {
     nameChinese.innerText = data.nameChinese;
     nameEnglish.innerText = data.nameEnglish;
 
+    // set comment
+    const comment = panelElement.querySelector('.panel-comment');
+    if (data.comment) {
+        comment.innerText = data.comment;
+    } else {
+        comment.classList.add('d-none');
+    }
+
     // set time
     const time = panelElement.querySelector('.panel-time');
     const startTime = new Date(data.startTime);
