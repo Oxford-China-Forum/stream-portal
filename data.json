@@ -52,7 +52,8 @@
                 {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
+                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"}
             ]
         },
         {
