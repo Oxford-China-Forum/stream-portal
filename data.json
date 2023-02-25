@@ -10,9 +10,11 @@
         "fanpu-sph": {"name": "返朴", "logo": "assets/img/platforms/fanpu.png"},
         "youtube": {"name": "YouTube", "logo": "assets/img/platforms/youtube.png"},
         "sohu": {"name": "搜狐", "logo": "assets/img/platforms/sohu.png"},
-        "miaopai": {"name": "秒拍一直播", "logo": "assets/img/platforms/miaopai.png"},
+        "miaopai": {"name": "一直播", "logo": "assets/img/platforms/miaopai.png"},
         "yixuezhe": {"name": "壹学者", "logo": "assets/img/platforms/yixuezhe.png"},
-        "xueshuo": {"name": "学说在线", "logo": "assets/img/platforms/xueshuo.png"}
+        "xueshuo": {"name": "学说在线", "logo": "assets/img/platforms/xueshuo.png"},
+        "xuejie": {"name": "学界", "logo": "assets/img/platforms/xuejie.png"},
+        "blueoak": {"name": "蓝橡树", "logot": "assets/img/platforms/blueoak.png"}
     },
     "panels": [
         {
@@ -35,11 +37,12 @@
             "endTime": "2023-02-25T17:10:00+08:00",
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1010590.html?webkit=1", "qr": "assets/img/platforms/qr/ifeng.png"},
-                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"},
                 {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
+
+                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"}
             ]
         },
         {
@@ -49,11 +52,12 @@
             "endTime": "2023-02-25T18:50:00+08:00",
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1010590.html?webkit=1", "qr": "assets/img/platforms/qr/ifeng.png"},
-                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"},
                 {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
+
+                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"}
             ]
         },
         {
@@ -66,7 +70,10 @@
                 {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
+
+                {"platform": "wind", "qr": "assets/img/platforms/qr/wind.png"},
+                {"platform": "miaopai"}
             ]
         },
         {
@@ -79,7 +86,13 @@
                 {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
+
+                {"platform": "fanpu-sph", "qr": "assets/img/platforms/qr/fanpu-sph.png"},
+                {"platform": "xuejie"},
+                {"platform": "blueoak", "qr": "assets/img/platforms/qr/blueoak.png"},
+                {"platform": "wind", "qr": "assets/img/platforms/qr/wind.png"},
+                {"platform": "miaopai"}
             ]
         },
         {
@@ -92,7 +105,11 @@
                 {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
+
+                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"},
+                {"platform": "fanpu-sph", "qr": "assets/img/platforms/qr/fanpu-sph.png"},
+                {"platform": "wind", "qr": "assets/img/platforms/qr/wind.png"}
             ]
         },
         {
@@ -105,7 +122,10 @@
                 {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
+
+                {"platform": "fanpu-sph", "qr": "assets/img/platforms/qr/fanpu-sph.png"},
+                {"platform": "wind", "qr": "assets/img/platforms/qr/wind.png"}
             ]
         }
     ]
