@@ -2,22 +2,15 @@
     "platforms": {
         "ifeng": {"name": "凤凰网", "logo": "assets/img/platforms/ifeng.png"},
         "bilibili": {"name": "哔哩哔哩", "logo": "assets/img/platforms/bilibili.svg"},
-        "future": {"name": "未来事务管理局", "logo": "assets/img/platforms/future.png"},
-        "oneway-sph": {"name": "(视频号)", "logo": "assets/img/platforms/oneway.png", "showName": true},
-        "oneway-weibo": {"name": "(微博)", "logo": "assets/img/platforms/oneway.png", "showName": true},
+        "oneway": {"name": "单向街书店", "logo": "assets/img/platforms/oneway.png"},
         "yunlive": {"name": "云现场", "logo": "assets/img/platforms/yunlive.png"},
         "baidu-caijing": {"name": "百度财经", "logo": "assets/img/platforms/baidu-caijing.png"},
         "wind": {"name": "万得3C会议", "logo": "assets/img/platforms/wind.png"},
         "sph": {"name": "视频号"},
-        "iqiyi": {"name": "爱奇艺", "logo": "assets/img/platforms/iqiyi.jpg"},
-        "tencent": {"name": "腾讯视频", "logo": "assets/img/platforms/tencent.png"},
-        "fanpu-sph": {"name": "返朴视频号", "logo": "assets/img/platforms/fanpu.png", "showName": true},
-        "fanpu-weibo": {"name": "返朴微博", "logo": "assets/img/platforms/fanpu.png", "showName": true},
+        "fanpu-sph": {"name": "返朴", "logo": "assets/img/platforms/fanpu.png"},
         "youtube": {"name": "YouTube", "logo": "assets/img/platforms/youtube.png"},
-        "zhihu": {"name": "知乎", "logo": "assets/img/platforms/zhihu.png"},
         "sohu": {"name": "搜狐", "logo": "assets/img/platforms/sohu.png"},
         "miaopai": {"name": "秒拍一直播", "logo": "assets/img/platforms/miaopai.png"},
-        "tai": {"name": "钛媒体", "logo": "assets/img/platforms/tai.png"}
     },
     "panels": [
         {
@@ -26,6 +19,10 @@
             "startTime": "2023-02-25T15:00:00+08:00",
             "endTime": "2023-02-25T15:30:00+08:00",
             "links": [
+                {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
+                {"platform": "yixuezhe", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"},
+                {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1010590.html?webkit=1", "qr": "assets/img/platforms/qr/ifeng.png"},
+                {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
             ]
         },
         {
