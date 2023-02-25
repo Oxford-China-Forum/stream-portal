@@ -12,7 +12,7 @@
         "sohu": {"name": "搜狐", "logo": "assets/img/platforms/sohu.png"},
         "miaopai": {"name": "秒拍一直播", "logo": "assets/img/platforms/miaopai.png"},
         "yixuezhe": {"name": "壹学者", "logo": "assets/img/platforms/yixuezhe.png"},
-        "xueshuo": {"name": "学说", "logo": "assets/img/platforms/xueshuo.png"}
+        "xueshuo": {"name": "学说在线", "logo": "assets/img/platforms/xueshuo.png"}
     },
     "panels": [
         {
@@ -34,6 +34,12 @@
             "startTime": "2023-02-25T15:40:00+08:00",
             "endTime": "2023-02-25T17:10:00+08:00",
             "links": [
+                {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
+                {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
+                {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1010590.html?webkit=1", "qr": "assets/img/platforms/qr/ifeng.png"},
+                {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
+                {"platform": "单向街书店", "qr": "assets/img/platforms/qr/oneway-sph.png"}
             ]
         },
         {
