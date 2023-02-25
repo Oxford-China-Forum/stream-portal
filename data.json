@@ -11,6 +11,8 @@
         "youtube": {"name": "YouTube", "logo": "assets/img/platforms/youtube.png"},
         "sohu": {"name": "搜狐", "logo": "assets/img/platforms/sohu.png"},
         "miaopai": {"name": "秒拍一直播", "logo": "assets/img/platforms/miaopai.png"},
+        "yixuezhe": {"name": "壹学者", "logo": "assets/img/platforms/yixuezhe.png"},
+        "xueshuo": {"name": "学说", "logo": "assets/img/platforms/xueshuo.png"}
     },
     "panels": [
         {
@@ -19,10 +21,11 @@
             "startTime": "2023-02-25T15:00:00+08:00",
             "endTime": "2023-02-25T15:30:00+08:00",
             "links": [
-                {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
-                {"platform": "yixuezhe", "link": "https://www.youtube.com/channel/UCCg3xWOOK556bQ8PGEj7ZxQ/live"},
+                {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
+                {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1010590.html?webkit=1", "qr": "assets/img/platforms/qr/ifeng.png"},
-                {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"}
+                {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
             ]
         },
         {
