@@ -35,11 +35,11 @@
             "endTime": "2023-02-25T17:10:00+08:00",
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1010590.html?webkit=1", "qr": "assets/img/platforms/qr/ifeng.png"},
+                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"},
                 {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
-                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"}
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
             ]
         },
         {
@@ -49,11 +49,11 @@
             "endTime": "2023-02-25T18:50:00+08:00",
             "links": [
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1010590.html?webkit=1", "qr": "assets/img/platforms/qr/ifeng.png"},
+                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"},
                 {"platform": "youtube", "link": "https://www.youtube.com/@OxfordChinaForum/live"},
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
-                {"platform": "oneway", "qr": "assets/img/platforms/qr/oneway-sph.png"}
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
             ]
         },
         {
