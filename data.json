@@ -25,7 +25,7 @@
                 {"platform": "yixuezhe", "qr": "assets/img/platforms/qr/yixuezhe-25.png"},
                 {"platform": "ifeng", "link": "https://flive.ifeng.com/live/1010590.html?webkit=1", "qr": "assets/img/platforms/qr/ifeng.png"},
                 {"platform": "yunlive", "link": "https://www.yunxianchang.com/pc/serviceCase/691"},
-                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"},
+                {"platform": "xueshuo", "link": "https://www.51xueshuo.com/?#/liveSpec?specialCode=1627116876331094016", "qr": "assets/img/platforms/qr/xueshuo.png"}
             ]
         },
         {
